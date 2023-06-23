@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ae8d3cbc.css",
+    "main.js": "/static/js/main.faf9c089.js",
+    "static/js/787.24772ec4.chunk.js": "/static/js/787.24772ec4.chunk.js",
+    "static/media/RolexLight.woff2": "/static/media/RolexLight.abd5c539d0d3d699e896.woff2",
+    "index.html": "/index.html",
+    "main.ae8d3cbc.css.map": "/static/css/main.ae8d3cbc.css.map",
+    "main.faf9c089.js.map": "/static/js/main.faf9c089.js.map",
+    "787.24772ec4.chunk.js.map": "/static/js/787.24772ec4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae8d3cbc.css",
+    "static/js/main.faf9c089.js"
+  ]
+}
